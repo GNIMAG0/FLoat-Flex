@@ -1,0 +1,41 @@
+body, html {margin: 0px;
+padding: 0px;}
+#nav {padding: 10px; 
+    background-color: darkred;}
+#nav h1 {font-size: larger;
+}
+#nav a{text-decoration: none;
+    color: black;
+    font-size: larger;
+    display: inline;
+    padding: 5px;
+    position: relative; left: 75%;
+    bottom: 30px;}
+.ALL {margin:0 auto;}
+
+ ul li {background-color: azure;
+    
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    width: 300px;
+    height: fit-content;
+    
+}
+#ID {border: solid #000 1px;
+margin: 10px;}
+#IB {border: solid #000 1px;
+    margin: 10px;}
+#IC {border: solid #000 1px;margin: 10px;}
+#IM {border: solid #000 1px;margin: 10px;}
+.block {padding: 10px; 
+    background-color: rgb(152, 45, 45);
+margin: 10px;}
+
+ul#FC {list-style-type: none;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center ;
+} 
